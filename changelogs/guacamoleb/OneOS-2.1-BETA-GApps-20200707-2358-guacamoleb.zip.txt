@@ -1,0 +1,19 @@
+SystemUI: Add Support VoWiFi icons
+SystemUI: Update VoLTE icon
+BoostFramework: Kill logcat spam on devices without QPerformance
+FODCircleView: Add Support for custom FP pressed icon
+
+SystemUI: Bring Back Improved Network Indicators
+ThemePicker: Add OnePlus Slate and Samsung OneUI fonts
+System: Add New OneOS Ringtones(thanks Shubham Singh, The GuitonBrothers)
+
+Settings: Update raw animations and drawables from Pixel 4 XL
+Settings: Add feature provider for face unlock
+Settings: Don't change nouns in summaries to lower case for German
+Settings: Fix Face unlock feature [3/3]
+Settings: fingerprint: Allow devices to configure sensor location
+
+System: Switch to 3 button navigation By-default
+System: Add Android Oreo Style navbars
+System: Use speed tuning for performance critical applications
+And more!
