@@ -1,0 +1,4 @@
+SystemUI: Show only VoWiFi icon when VoWiFI and VoLTE both are present
+SystemUI: Bring Back Improved Network Indicators
+ThemePicker: Add OnePlus Slate and Samsung OneUI fonts
+System: Add New OneOS Ringtones(thanks Shubham Singh, The GuitonBrothers)
