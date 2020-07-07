@@ -1,10 +1,10 @@
 {
-   "datetime": "1593959743",
+   "datetime": "1594133889",
    "error": false,
-   "filehash": "ad96062dadd6a58083258bc88cf3ce1d",
-   "filename": "OneOS-2.1-BETA-GApps-20200705-2006-guacamole.zip",
-   "id": "ac1ec08390d20b16234ac01650d54e8308fa0b61692ba542c64f21ab5cf4736f",
-   "size": 1351603138,
-   "url": "https://master.dl.sourceforge.net/project/caf-test/guacamole/OneOS-2.1-BETA-GApps-20200705-2006-guacamole.zip",
-   "version": "2.1-BETA-GApps-QQ2A.200405.005-1593959779"
+   "filehash": "8e99702ac2b9c89c193642ad3091e415",
+   "filename": "OneOS-2.1-BETA-GApps-20200707-2029-guacamole.zip",
+   "id": "d8aea37e130b53c4fc3abb08146e5f4894df6374cd2413a5823cf93c7ffe40c7",
+   "size": 1253271530,
+   "url": "https://master.dl.sourceforge.net/project/caf-test/guacamole/OneOS-2.1-BETA-GApps-20200707-2029-guacamole.zip",
+   "version": "2.1-BETA-GApps-QQ2A.200405.005-1594133968"
 }
