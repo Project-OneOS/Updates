@@ -1,0 +1,101 @@
+=======================
+     08-28-2020
+=======================
+
+
+   * frameworks/base/
+d9ff8ace896 derp
+a2739f3573a FODCircleView: Add support for pressed fod layer
+812cda853f7 OnTheSpot: introduce user hint prompt system
+c8969e5872c ExtendedRestart: allow activating with OTS
+989a973413d SystemUI: Update extended restart dialog to match base
+eaa9fdba774 SystemUI: Restrict extended restart from secure lockscreen
+c13d414da31 Introduce Extended Restart
+0daa18cda33 SystemUI: Fix QS security footer layout after brightness slider rework
+765c4370047 SystemUI: Move brightness slider to the bottom
+
+   * vendor/one/
+b1654459 vendor: kernel: Add back support for custom dtboimg makefile
+9f7b0f28 kernel: Add support for mkdtimg cfg_create
+4ca8a2ff kernel: Switch to mkdtboimg.py
+de76fb2c kernel: Rework how DTB/DTBO are built
+
+=======================
+     08-27-2020
+=======================
+
+
+=======================
+     08-26-2020
+=======================
+
+
+=======================
+     08-25-2020
+=======================
+
+
+=======================
+     08-24-2020
+=======================
+
+
+=======================
+     08-23-2020
+=======================
+
+
+=======================
+     08-22-2020
+=======================
+
+
+=======================
+     08-21-2020
+=======================
+
+
+=======================
+     08-20-2020
+=======================
+
+
+=======================
+     08-19-2020
+=======================
+
+
+=======================
+     08-18-2020
+=======================
+
+
+=======================
+     08-17-2020
+=======================
+
+
+   * build/make/
+e1ec0b059 Add odm properties blacklist
+
+   * build/soong/
+9e04e03d soong: Add support for vendor_overlay
+
+   * frameworks/base/
+5bfe0577385 [framework] Remove boot complete marker
+8bbb7239663 GraphicsEnv: refactor to unify the debuggable logic
+a94ed611a91 misc
+
+   * frameworks/native/
+bee44dade add looging for FOD view
+
+=======================
+     08-16-2020
+=======================
+
+
+=======================
+     08-15-2020
+=======================
+
+
