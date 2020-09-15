@@ -1,10 +1,10 @@
 {
-   "datetime": "1599643614",
+   "datetime": "1600155743",
    "error": false,
-   "filehash": "cf670c3af5654f367a067324a268d367",
-   "filename": "OneOS-2.1-BETA-GApps-20200909-1458-hotdog.zip",
-   "id": "088b4e17f149587926e0dcf7a66e3e8c1531b78d3b9b7f653191b7b0bfd1c5ca",
-   "size": 1264651748,
-   "url": "https://master.dl.sourceforge.net/project/caf-test/hotdog/OneOS-2.1-BETA-GApps-20200909-1458-hotdog.zip",
-   "version": "2.1-BETA-GApps-QKQ1.200628.002-1599643698"
+   "filehash": "42c9a420e702099e9c1dce1361681a74",
+   "filename": "OneOS-2.2-BETA-GApps-20200915-1314-hotdog.zip",
+   "id": "9fd4c17d6cb5b2f43f9552f523409022bc47f2bf5965b4126b1d068d410dc5c9",
+   "size": 1411594171,
+   "url": "https://master.dl.sourceforge.net/project/caf-test/hotdog/OneOS-2.2-BETA-GApps-20200915-1314-hotdog.zipp",
+   "version": "2.2-BETA-GApps-QKQ1.200628.002-1600155883"
 }
